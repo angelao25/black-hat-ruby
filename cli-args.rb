@@ -1,0 +1,2 @@
+arguments = ARGV
+pp arguments
